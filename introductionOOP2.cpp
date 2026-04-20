@@ -34,7 +34,6 @@ int main(){
     non_elektronik.kategori = "Non-Elektronik";
     non_elektronik.tanggalproduksi = 20230201;
 
-P
     elektronik.printdata();
     non_elektronik.printdata();
     brg.printdata();
